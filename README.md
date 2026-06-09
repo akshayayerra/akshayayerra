@@ -20,7 +20,7 @@ Tools
 - GitHub (Learning)
 - VS Code
 Current Focus
-🌱 Currently focusing on:
+🌱Currently focusing on:
 - Improving problem-solving skills
 - Learning software development concepts
 - Exploring open-source projects

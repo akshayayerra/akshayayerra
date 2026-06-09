@@ -8,7 +8,7 @@ About Me
 
 🚀 I enjoy learning new technologies and strengthening my technical skills through projects and coding practice.
 
-Skills
+📚Skills
 
 Languages
 
